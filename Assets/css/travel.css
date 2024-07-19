@@ -234,23 +234,19 @@ body {
     /* font-weight: 100; */
 }
 
-.details {
+/* .details {
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-size: large;
-}
+} */
 
 .section_theme {
-
-    /* background: #C8BDD5; */
     background: radial-gradient(at center bottom, #C8BDD5, #1E4BA8);
-    /* background-image: radial-gradient(at top left, rgba(9, 9, 9, 0.97), rgba(227, 225, 225, 0.625)); */
 }
 
 .theme {
     width: 40vh;
     height: auto;
-    /* font-size: ; */
     padding: 20px 11px 15px;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -267,7 +263,7 @@ body {
 
 .theme img {
     width: 100%;
-    height: 180px;
+    height: 200px;
     border-radius: 12px;
     /* overflow: hidden; */
     border: 0.6px solid rgba(255, 255, 255, 0.5);
